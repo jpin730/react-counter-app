@@ -21,3 +21,7 @@ Run tests
 ```
 yarn test
 ```
+
+## Deployed app
+
+https://jpin730.github.io/react-counter-app
